@@ -122,21 +122,34 @@
 
 ## Licencia
 
->[!IMPORTANT]  
-> Este proyecto es de propiedad privada del autor.  
->  
+>[!IMPORTANT]
+> Este proyecto se encuentra bajo la Licencia Apache 2.0.
+> Consulta el archivo [LICENSE](https://github.com/jcallally/android-kotlin-app-inventory-sharedpreferences/blob/main/LICENSE) para más detalles.
+>
 > ```
 >    Copyright (c) 2025 Javier Callally
->
->    All rights reserved.
->
->    This source code is the private property of the author.
->    Its use, reproduction, distribution, modification, sale, or publication
->    is strictly prohibited without a written commercial license agreement
->    signed by the owner.
->
->    For licensing inquiries or purchase, contact: jcallally@gmail.com
+>    
+>    Licensed under the Apache License, Version 2.0 (the "License");
+>    you may not use this file except in compliance with the License.
+>    You may obtain a copy of the License at
+>    
+>    http://www.apache.org/licenses/LICENSE-2.0
+>    
+>    Unless required by applicable law or agreed to in writing, software
+>    distributed under the License is distributed on an "AS IS" BASIS,
+>    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+>    See the License for the specific language governing permissions and
+>    limitations under the License.
 > ```
+
+## Versión Completa
+
+>[!IMPORTANT]
+> Esta es una versión incompleta del proyecto **Negocio Pro**, publicada únicamente con fines informativos y de demostración.  
+>
+> La versión completa incluye todas las funcionalidades activadas, soporte técnico y futuras actualizaciones. Está disponible solo para clientes registrados que hayan adquirido la aplicación.  
+>
+> 📩 Si deseas obtener la versión completa, por favor contacta directamente con el autor. 
 
 ## Contacto
 
