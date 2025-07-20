@@ -145,7 +145,7 @@
 ## Versión Completa
 
 >[!IMPORTANT]
-> Esta es una versión incompleta del proyecto **Negocio Pro**, publicada únicamente con fines informativos y de demostración.  
+> Esta es una versión incompleta del proyecto **BurgerMail**, publicada únicamente con fines informativos y de demostración.  
 >
 > La versión completa incluye todas las funcionalidades activadas, soporte técnico y futuras actualizaciones. Está disponible solo para clientes registrados que hayan adquirido la aplicación.  
 >
