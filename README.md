@@ -124,7 +124,7 @@
 
 >[!IMPORTANT]
 > Este proyecto se encuentra bajo la Licencia Apache 2.0.
-> Consulta el archivo [LICENSE](https://github.com/jcallally/android-kotlin-app-inventory-sharedpreferences/blob/main/LICENSE) para más detalles.
+> Consulta el archivo [LICENSE](https://github.com/jcallally/android-java-app-burgermail/blob/main/LICENSE) para más detalles.
 >
 > ```
 >    Copyright (c) 2025 Javier Callally
