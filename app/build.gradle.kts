@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.burgermail"
+    namespace = "com.javcodedev.burgermail"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.burgermail"
+        applicationId = "com.javcodedev.burgermail"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

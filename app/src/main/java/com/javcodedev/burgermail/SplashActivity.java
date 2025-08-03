@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 @SuppressWarnings("ClassCanBeRecord")
 public class HamburguesaItem {

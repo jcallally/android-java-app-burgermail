@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 import android.view.LayoutInflater;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 import org.junit.Test;
 

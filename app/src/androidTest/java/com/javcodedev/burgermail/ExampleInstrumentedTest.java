@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.burgermail", appContext.getPackageName());
+        assertEquals("com.javcodedev.burgermail", appContext.getPackageName());
     }
 }

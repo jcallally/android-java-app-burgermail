@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 import android.os.Build;
 import android.os.Bundle;

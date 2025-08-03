@@ -1,4 +1,4 @@
-package com.example.burgermail;
+package com.javcodedev.burgermail;
 
 import java.util.Properties;
 import java.util.concurrent.ExecutorService;
