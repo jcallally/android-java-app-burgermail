@@ -23,6 +23,8 @@ public class BaseActivity extends AppCompatActivity {
     protected void onPostCreate(@Nullable Bundle savedInstanceState) {
         super.onPostCreate(savedInstanceState);
 
+        // Se usa onPostCreate() porque el decorView aún no existe en onCreate()
+        // y causaba NullPointerException al configurar las barras del sistema.
         configurarBarrasDelSistema();
     }
 
